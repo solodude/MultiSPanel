@@ -95,16 +95,19 @@
     <None Include="Resources\signin_h.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\options_h.png" />
+    <None Include="Resources\options_htop.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\options_htop.png" />
+    <None Include="Resources\aim3_hr.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\aim3_h.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\misc1_h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\options_h.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\vis_h.png" />

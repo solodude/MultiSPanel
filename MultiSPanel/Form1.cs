@@ -71,7 +71,7 @@ namespace MultiSPanel
         //SETTINGS
         private void hide4_MouseHover(object sender, EventArgs e)
         {
-            this.hide4.BackgroundImage = ((System.Drawing.Image)(Properties.Resources.options_htop));
+            this.hide4.BackgroundImage = ((System.Drawing.Image)(Properties.Resources.options_h));
         }
 
         private void hide4_MouseLeave(object sender, EventArgs e)

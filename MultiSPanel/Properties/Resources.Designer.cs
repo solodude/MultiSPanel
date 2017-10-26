@@ -113,9 +113,9 @@ namespace MultiSPanel.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap options_htop {
+        internal static System.Drawing.Bitmap options_h {
             get {
-                object obj = ResourceManager.GetObject("options_htop", resourceCulture);
+                object obj = ResourceManager.GetObject("options_h", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
