@@ -1,0 +1,17 @@
+D:\projects\MultiSPanel\MultiSPanel\bin\Debug\MultiSPanel.exe
+D:\projects\MultiSPanel\MultiSPanel\bin\Debug\MultiSPanel.pdb
+D:\projects\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.csprojResolveAssemblyReference.cache
+D:\projects\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.Form1.resources
+D:\projects\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.Properties.Resources.resources
+D:\projects\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.csproj.GenerateResource.Cache
+D:\projects\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.exe
+D:\projects\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.pdb
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\bin\Debug\MultiSPanel.exe
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\bin\Debug\MultiSPanel.pdb
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.csprojResolveAssemblyReference.cache
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.Form1.resources
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.Properties.Resources.resources
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.csproj.GenerateResource.Cache
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.csproj.CoreCompileInputs.cache
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.exe
+C:\Users\Imanilus\Desktop\MultiSPanel\MultiSPanel\obj\Debug\MultiSPanel.pdb
